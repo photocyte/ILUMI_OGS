@@ -1,5 +1,5 @@
-## *Photinus pyralis* Official Geneset
-This is the Official Geneset (OGS) for [*Photinus pyralis* (Big Dipper Firefly)](https://en.wikipedia.org/wiki/Photinus_pyralis)
+## *Ignelater luminosus* Official Geneset
+This is the Official Geneset (OGS) for [*Ignelater luminosus* (Cucubano)](https://en.wikipedia.org/wiki/Pyrophorus_luminosus)
 
 As reported in this preprint: [https://www.biorxiv.org/content/early/2018/02/25/237586](https://www.biorxiv.org/content/early/2018/02/25/237586)
 
