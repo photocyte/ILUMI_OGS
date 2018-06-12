@@ -1,0 +1,468 @@
+ILUMI_00177-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00307-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00315-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00469-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00476-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00500-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00530-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00535-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00549-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00714-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00714-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00723-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00784-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00927-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00947-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00966-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00978-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_00986-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01050-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_01104-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01137-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01148-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01149-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01177-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01218-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01244-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01380-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01431-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01500-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01629-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01638-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01678-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01687-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01741-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_01743-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_01942-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02041-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_02195-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02235-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02272-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02289-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02363-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02480-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_02689-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02758-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_02781-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02825-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02851-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_02871-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02971-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03058-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03079-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_03130-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_03134-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03222-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03255-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03415-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_03485-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03491-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_03516-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_03717-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03737-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03774-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_03875-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04061-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04142-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04239-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04311-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04350-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04363-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04372-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04463-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04464-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04468-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04498-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04751-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04768-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04781-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04821-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04841-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04854-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_04874-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04915-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04942-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_04943-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05073-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_05136-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05304-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_05305-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05319-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05382-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05406-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_05461-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05550-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_05596-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05632-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_05696-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05946-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05966-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_05989-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_06049-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_06080-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_06145-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_06198-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06204-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_06208-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06231-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06250-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_00001-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06433-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02534-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_02533-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06451-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_06479-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06496-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06548-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06573-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06603-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06671-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06673-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06680-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06692-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06762-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06795-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06899-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_06999-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_07024-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07182-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07211-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_07220-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07226-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_07458-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07460-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07462-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07471-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07487-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_07504-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07597-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07637-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07690-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_07836-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_07842-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07860-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07879-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_07951-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08105-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08116-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_08286-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08361-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_08473-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08517-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08592-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_08597-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08612-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08629-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_08656-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_08855-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_08857-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_08861-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_08871-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09001-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09017-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09118-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_09171-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09189-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_09268-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09338-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_09395-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_09400-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_09408-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09447-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09583-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09631-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_09822-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09845-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09974-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_09976-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10035-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_10042-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_10077-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_10111-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10140-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_10322-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10365-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_10403-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10460-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10462-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10538-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10547-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10620-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10814-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10817-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10818-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10819-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10820-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10884-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_10914-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10935-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_10967-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_11091-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11110-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11171-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11191-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11198-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11277-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11288-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11308-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_11310-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11338-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11370-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11388-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11407-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_11414-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11460-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11673-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11679-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_11884-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_12167-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_12206-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_12271-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_12311-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_12463-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_12676-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_12687-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_12777-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_12824-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_12886-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_13125-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13176-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_13235-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13250-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_13258-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13275-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13298-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13301-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13305-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_13338-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13367-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_13481-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13546-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13585-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13647-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13654-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13663-PA	ELME000378	LIG_Pex14_4	Pex14 ligand motif	Fungal motif in Pex5 interacting with the N-terminal domain of Pex14	MM[NDE][EDNAG]F[LMA]	6.22956325844e-08	0	0
+ILUMI_13712-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13730-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13736-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13758-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13789-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13813-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13823-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13875-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_13933-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_14058-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14191-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_14198-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14230-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_14249-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14268-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14485-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_14584-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14677-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14726-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14733-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_14768-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_14810-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14849-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14937-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14973-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_14984-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_14993-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15030-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_15073-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_15100-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15102-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15395-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15560-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15650-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15812-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15825-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15919-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_15987-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_16048-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_16077-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_16115-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_16139-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_16193-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_16307-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_16379-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_16418-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_16568-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_16581-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_16628-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_16999-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_17029-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_17141-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_17310-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_17318-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_17505-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_17526-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_17645-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_17651-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_17708-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_17836-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_17858-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_17916-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_18071-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_18132-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_18335-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_18382-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_18448-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_18661-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_18938-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_18963-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_19004-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19008-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19055-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_19235-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19245-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_19362-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19476-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19489-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19505-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_19508-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19655-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19712-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_19735-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_19959-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20239-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_20249-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_20269-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20319-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20361-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_20395-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_20442-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_20480-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20553-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20645-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20646-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20675-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20683-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20684-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20710-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20737-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20821-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20840-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20922-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20971-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20972-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20995-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_20996-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21045-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21091-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21093-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21118-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21207-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21233-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21397-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21445-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21460-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21473-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_21483-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21536-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_21592-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21660-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21716-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_21756-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21800-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_21817-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21880-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21971-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_21990-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22038-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22055-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22181-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_22336-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22358-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22431-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22515-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_22651-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22655-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_22667-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22730-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_22797-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_22975-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_22978-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23022-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_23038-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23072-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_23095-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23213-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_23234-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_23284-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23325-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23430-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_23441-PA	ELME000378	LIG_Pex14_4	Pex14 ligand motif	Fungal motif in Pex5 interacting with the N-terminal domain of Pex14	MM[NDE][EDNAG]F[LMA]	6.22956325844e-08	0	0
+ILUMI_23467-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23469-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23565-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23574-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23575-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23605-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23631-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23781-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23781-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_23788-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23802-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23803-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_23872-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_24224-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_24257-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_24344-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_24450-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_24602-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_24691-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25264-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25278-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25409-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25413-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25467-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25483-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25485-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25553-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25599-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25630-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25764-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_25802-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25881-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25903-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25914-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_25953-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_26052-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26105-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26153-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26167-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27554-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26168-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26169-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26169-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_27555-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26289-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26352-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_26354-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26394-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26514-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_26541-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_26548-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26600-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26649-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26651-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_26768-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26778-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_26848-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26849-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_26954-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_27022-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27027-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27079-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27181-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_27199-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27227-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+ILUMI_27230-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27272-PA	ELME000377	LIG_Pex14_3	Pex14 ligand motif	Motif in Pex5 interacting with the N-terminal domain (NTD) of Pex14	LV.EF[LM]	5.00205191734e-07	1	1
+ILUMI_27292-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27385-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27442-PA	ELME000009	TRG_PTS1	PTS1	Generic PTS1 ELM for all eukaryotes	(.[SAPTC][KRH][LMFI][*]$)|([KRH][SAPTC][NTS][LMFI][*]$)	1.51919053984e-05	5	1
+ILUMI_27467-PA	ELME000069	TRG_PTS2	PTS2	Generic PTS2 pattern for all eukaryotes (except lineages which have lost it)	^.{1,40}R[^P][^P][^P][LIV][^P][^P][HQ][LIF]	3.93913953465e-06	2	2
+
