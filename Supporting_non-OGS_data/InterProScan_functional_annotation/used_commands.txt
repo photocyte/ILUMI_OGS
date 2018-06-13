@@ -1,0 +1,12 @@
+INTERPRO_SCAN_HOME=/lab/solexa_weng/testtube/interproscan-5.26-65.0
+PROTEINS_TO_SCAN=../../ILUMI_OGS1.2.pep.fa.gz
+
+rm -f ./*.log
+
+NAME=ILUMI_OGS1.2.nostops.pep.fa
+
+md5sum $PROTEINS_TO_SCAN | tee PROTEINS_TO_SCAN.md5.txt
+
+seqkit replace -s -p "\*$" -r "" $PROTEINS_TO_SCAN > $NAME
+
+bsub -n 31 -R span[hosts=1] "${INTERPRO_SCAN_HOME}/interproscan.sh -i $NAME --goterms --pathways -f tsv gff3 svg -dp -cpu 31 1>interproscan.stdout.log 2>interproscan.stderr.log"
