@@ -6,3 +6,6 @@ ILUMI_OGS1.2.mRNA.fa.gz
 (stdin)= 66fcad53aa51135accff50f308716b76
 ILUMI_OGS1.2.gene.fa.gz
 (stdin)= 3aa2501eb7d3621b64b3e5ed4b1dde8c
+Genome_release.fa
+(stdin)= 5c52f16bfa46194c970c4f648479ae38
+7cf956b3e4bdd0035548488a0f43d699  Genome_release.fa
