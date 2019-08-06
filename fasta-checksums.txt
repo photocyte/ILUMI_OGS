@@ -1,8 +1,8 @@
 ILUMI_OGS1.2.CDS.fa.gz
-(stdin)= addddb8ef3c9157eb491c6b4ea8c7366
+(stdin)= ababceade5257f718678fa3ed99a1525
 ILUMI_OGS1.2.pep.fa.gz
-(stdin)= 0ce71637c44b2381ad299cc3d15c5014
+(stdin)= 80ae77300a992ebe0150096cb4f3c56e
 ILUMI_OGS1.2.mRNA.fa.gz
-(stdin)= 961b49530087583dfe1f477f4fe87d01
+(stdin)= 66fcad53aa51135accff50f308716b76
 ILUMI_OGS1.2.gene.fa.gz
 (stdin)= 3aa2501eb7d3621b64b3e5ed4b1dde8c
