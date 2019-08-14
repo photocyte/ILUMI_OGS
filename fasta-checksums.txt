@@ -2,26 +2,26 @@
 file                    format  type  num_seqs     sum_len  min_len  avg_len  max_len
 ILUMI_OGS1.2.CDS.fa.gz  FASTA   DNA     27,558  29,524,205      123  1,071.3   60,483
 (stdin)= ababceade5257f718678fa3ed99a1525
-75bc2c3fece6810cb905ab17e3396815  ILUMI_OGS1.2.CDS.fa.gz
+b20d7b962ef2ea8f53e53751c2d2a88b  ILUMI_OGS1.2.CDS.fa.gz
 #########
 file                    format  type     num_seqs    sum_len  min_len  avg_len  max_len
 ILUMI_OGS1.2.pep.fa.gz  FASTA   Protein    27,558  9,840,130       41    357.1   20,161
 (stdin)= 80ae77300a992ebe0150096cb4f3c56e
-cf00fff948595fcfb94c243061fea2f6  ILUMI_OGS1.2.pep.fa.gz
+0a57d8621aaa38ec55e9cd257ae6c69d  ILUMI_OGS1.2.pep.fa.gz
 #########
 file                     format  type  num_seqs     sum_len  min_len  avg_len  max_len
 ILUMI_OGS1.2.mRNA.fa.gz  FASTA   DNA     27,558  29,526,646      123  1,071.4   60,483
 (stdin)= 66fcad53aa51135accff50f308716b76
-6ae03b5a56a8cdf3901df64d06f09d9b  ILUMI_OGS1.2.mRNA.fa.gz
+66ef993eebde70e785f80c0c58b0e5f5  ILUMI_OGS1.2.mRNA.fa.gz
 #########
 file                     format  type  num_seqs      sum_len  min_len  avg_len  max_len
 ILUMI_OGS1.2.gene.fa.gz  FASTA   DNA     27,558  148,088,987      150  5,373.7  402,464
 (stdin)= 3aa2501eb7d3621b64b3e5ed4b1dde8c
-c0b5235970e8b51e49d3eb598fcc93b9  ILUMI_OGS1.2.gene.fa.gz
+353d3079a7a5318524ebeff179589249  ILUMI_OGS1.2.gene.fa.gz
 #########
 Genome_release.fa
 Ilumi1.3.fasta
 file               format  type  num_seqs      sum_len  min_len  avg_len    max_len
 Genome_release.fa  FASTA   DNA     91,322  842,905,137      327    9,230  2,284,852
 (stdin)= e69e26e7abb72b531e0ab071c1f1f055
-69376bd0e39ad77f8ffbdc7290ba1a42  Genome_release.fa
+52e3fa8e0b0866fe58d3c5aeca52fefe  Genome_release.fa
